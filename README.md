@@ -1,4 +1,4 @@
-# currency-convert
+# Currency-convert
 A website to convert currency values
 
 # Getting Started with Create React App
